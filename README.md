@@ -44,7 +44,7 @@ Add `https://mcp.sweeprice.com/mcp` as a remote MCP server in your client (Claud
 
 ## Pricing
 
-Plans start at $83 per month billed yearly ($990 per year), or $99 month to month, for 500 products, every marketplace included. In euros: €74 per month billed yearly (€890 per year), or €89 month to month, excl. VAT. Details: [sweeprice.com/en/pricing](https://www.sweeprice.com/en/pricing).
+Plans start at $83 per month billed yearly ($990 per year), or $99 month to month, for 500 products, every marketplace included. In euros: €74 per month billed yearly (€890 per year), or €89 month to month, excl. VAT. Details: [sweeprice.com/en#pricing](https://www.sweeprice.com/en/#pricing).
 
 ## Listings
 
@@ -55,4 +55,4 @@ Plans start at $83 per month billed yearly ($990 per year), or $99 month to mont
 
 ## Contact
 
-contact@sweeprice.com. Terms and privacy: [sweeprice.com/en/legal](https://www.sweeprice.com/en/legal).
+contact@sweeprice.com. [Terms of use](https://www.sweeprice.com/en/terms-of-use), [privacy policy](https://www.sweeprice.com/en/privacy-policy), [legal notice](https://www.sweeprice.com/en/legal-notice).
